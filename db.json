@@ -130,6 +130,27 @@
                     "ingredientes": "Pollo en cubos, pasta penne al pesto, maíz dulce, queso feta, ajonjolí, tomates San Marzano y aguacate; sobre variedad de lechugas, acompañado con vinagreta campiña.",
                     "precio": 23400
                 }
+            ],
+    "empleados": 
+            [
+                {
+                    "id": 1,
+                    "photo": "https://image.freepik.com/foto-gratis/joven-guapo-sonriendo-sobre-pared-beige_176420-6692.jpg",
+                    "name": "Andres Ramirez Bohorquez",
+                    "cargo": "Chef Ejecutivo"
+                },
+                {
+                    "id": 2,
+                    "photo": "https://image.freepik.com/foto-gratis/mujer-hermosa-joven-mirando-camara-chica-moda-verano-casual-camiseta-blanca-pantalones-cortos-hembra-positiva-muestra-emociones-faciales-modelo-divertido-aislado-amarillo_158538-15796.jpg",
+                    "name": "Maria Gomez",
+                    "cargo": "Chef Reposteria"
+                },
+                {
+                    "id": 3,
+                    "photo": "https://image.freepik.com/foto-gratis/alegre-mujer-mediana-edad-cabello-rizado_1262-20859.jpg",
+                    "name": "Sara Botero",
+                    "cargo": "Administradora"
+                }
             ]
 
 }
