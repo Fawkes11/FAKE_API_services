@@ -20,6 +20,116 @@
                       "tittle": "Cumpleaños",
                       "text": "lLorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto nobis reprehenderit earum cupiditate sed."
                     }
-                ]
+                ],
+    "menu": [
+                {
+                    "id": 1,
+                    "imagen": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/pizza-familiar-napolitana_720x.png?v=1632856704",
+                    "product": "pizza",
+                    "type": "napolitana",
+                    "tamaño": "familiar",
+                    "ingredientes": "Pizza familiar con base napolitana, con mozzarella y ruedas de tomate con mantequilla de ajo",
+                    "precio": 21900
+                },
+                {
+                    "id": 2,
+                    "imagen": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/pizza-familiar-fiorentina_720x.png?v=1632856327",
+                    "product": "pizza",
+                    "type": "fiorentina",
+                    "tamaño": "familiar",
+                    "ingredientes": "Pizza familiar con base napolitana, mozarella, jamón serrano, cebolla caramelizada y champiñones",
+                    "precio": 33400
+                },
+                {
+                    "id": 3,
+                    "imagen": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/pizza-familiar-jamon-y-queso_720x.png?v=1632856403",
+                    "product": "pizza",
+                    "type": "jamon y mozarella",
+                    "tamaño": "familiar",
+                    "ingredientes": "Pizza familiar con base napolitana, mozzarella y jamon artesanal, acompañada de mantequilla de ajo",
+                    "precio": 24400
+                },
+                {
+                    "id": 4,
+                    "imagen": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/combinado-pollo-orrento_c1f1d255-ce1d-4c4c-83e6-f6d42cc93321_720x.png?v=1625498088",
+                    "product": "combinado",
+                    "type": "sorrento",
+                    "tamaño": "personal",
+                    "ingredientes": "Pollo pernil al horno cocinado lentamente en salsa BBQ y especias + Papas al horno gratinadas en salsa napolitana, pesto, crema y parmesano + Ensalada de la casa",
+                    "precio": 23900
+                },
+                {
+                    "id": 5,
+                    "imagen": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/panini_bbq_ilforno_720x.jpg?v=1617058732",
+                    "product": "panini",
+                    "type": "pollo bbq",
+                    "tamaño": "personal",
+                    "ingredientes": "Pollo a la plancha con bbq, mayonesa, mozzarella, tocineta y cebolla caramelizada.",
+                    "precio": 24700
+                },
+                {
+                    "id": 6,
+                    "imagen": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/panini-veggie-cobb_540x.png?v=1632857387",
+                    "product": "panini",
+                    "type": "veggie cobb",
+                    "tamaño": "personal",
+                    "ingredientes": "Tofu en julianas, con mozzarella, cascos de huevo cocido, aguacate, veggie vtocineta y tomates San Marzano, sobre cama de lechugas con vinagreta cobb, finalizado con salsa queso azul",
+                    "precio": 24800
+                },
+                {
+                    "id": 7,
+                    "imagen": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/Panini_tofu_BBQ_ilforno_540x.jpg?v=1581084705",
+                    "product": "panini",
+                    "type": "tofu bbq",
+                    "tamaño": "personal",
+                    "ingredientes": "Tofu a la plancha con bbq, veggie tocineta, mozzarella, mayonesa y cebolla caramelizada.",
+                    "precio": 23700
+                },
+                {
+                    "id": 8,
+                    "imagen": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/lasana-ragu_540x.png?v=1615484868",
+                    "product": "lasaña",
+                    "type": "ragú",
+                    "tamaño": "personal",
+                    "ingredientes": "Láminas de pasta artesanal rellenas con carne de res en cocción lenta y pomodoro, gratinadas con mozzarella y parmesano.",
+                    "precio": 23900
+                },
+                {
+                    "id": 9,
+                    "imagen": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/Lasagna_bolognesa_veggie_ilforno_540x.jpg?v=1581083997",
+                    "product": "lasaña",
+                    "type": "veggie boloñesa",
+                    "tamaño": "personal",
+                    "ingredientes": "Elaboradas con láminas de pasta artesanal y gratinadas con mozzarella y parmesano.",
+                    "precio": 23600
+                },
+                {
+                    "id": 10,
+                    "imagen": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/bowl-salmon-san-marzano_540x.png?v=1624591262",
+                    "product": "bowl",
+                    "type": "olivia salmon",
+                    "tamaño": "personal",
+                    "ingredientes": "Salmón y mango en cubos, zanahorias rostizadas, cebolla caramelizada, tomates San Marzano, ajonjolí y espinacas salteadas, en aceite de oliva; con aderezo oriental.",
+                    "precio": 27900
+                },
+                {
+                    "id": 11,
+                    "imagen": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/bowl-caprese-san-marzano_540x.png?v=1624591160",
+                    "product": "bowl",
+                    "type": "caprese",
+                    "tamaño": "personal",
+                    "ingredientes": "Queso bocconcini de búfala, pasta penne a la napolitana, albahaca y tomates San Marzano, con aceite de oliva.",
+                    "precio": 22000
+                },
+                {
+                    "id": 12,
+                    "imagen": "https://cdn.shopify.com/s/files/1/0247/8768/1379/products/bowl-pollo-san-marzano_540x.png?v=1624591211",
+                    "product": "bowl",
+                    "type": "feta pollo",
+                    "tamaño": "personal",
+                    "ingredientes": "Pollo en cubos, pasta penne al pesto, maíz dulce, queso feta, ajonjolí, tomates San Marzano y aguacate; sobre variedad de lechugas, acompañado con vinagreta campiña.",
+                    "precio": 23400
+                }
+            ]
 
 }
