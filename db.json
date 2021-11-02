@@ -150,6 +150,12 @@
                     "photo": "https://image.freepik.com/foto-gratis/alegre-mujer-mediana-edad-cabello-rizado_1262-20859.jpg",
                     "name": "Sara Botero",
                     "cargo": "Administradora"
+                },
+                {
+                    "id": 4,
+                    "photo": "https://image.freepik.com/foto-gratis/retrato-joven-sonriente_171337-11976.jpg",
+                    "name": "Carlos Pineda",
+                    "cargo": "Cajero"
                 }
             ]
 
