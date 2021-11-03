@@ -29,7 +29,7 @@
                     "type": "napolitana",
                     "tamaño": "familiar",
                     "ingredientes": "Pizza familiar con base napolitana, con mozzarella y ruedas de tomate con mantequilla de ajo",
-                    "precio": 21900
+                    "precio": 21.900
                 },
                 {
                     "id": 2,
@@ -38,7 +38,7 @@
                     "type": "fiorentina",
                     "tamaño": "familiar",
                     "ingredientes": "Pizza familiar con base napolitana, mozarella, jamón serrano, cebolla caramelizada y champiñones",
-                    "precio": 33400
+                    "precio": 33.400
                 },
                 {
                     "id": 3,
@@ -47,7 +47,7 @@
                     "type": "jamon y mozarella",
                     "tamaño": "familiar",
                     "ingredientes": "Pizza familiar con base napolitana, mozzarella y jamon artesanal, acompañada de mantequilla de ajo",
-                    "precio": 24400
+                    "precio": 24.400
                 },
                 {
                     "id": 4,
@@ -56,7 +56,7 @@
                     "type": "sorrento",
                     "tamaño": "personal",
                     "ingredientes": "Pollo pernil al horno cocinado lentamente en salsa BBQ y especias + Papas al horno gratinadas en salsa napolitana, pesto, crema y parmesano + Ensalada de la casa",
-                    "precio": 23900
+                    "precio": 23.900
                 },
                 {
                     "id": 5,
@@ -65,7 +65,7 @@
                     "type": "pollo bbq",
                     "tamaño": "personal",
                     "ingredientes": "Pollo a la plancha con bbq, mayonesa, mozzarella, tocineta y cebolla caramelizada.",
-                    "precio": 24700
+                    "precio": 24.700
                 },
                 {
                     "id": 6,
@@ -74,7 +74,7 @@
                     "type": "veggie cobb",
                     "tamaño": "personal",
                     "ingredientes": "Tofu en julianas, con mozzarella, cascos de huevo cocido, aguacate, veggie vtocineta y tomates San Marzano, sobre cama de lechugas con vinagreta cobb, finalizado con salsa queso azul",
-                    "precio": 24800
+                    "precio": 24.800
                 },
                 {
                     "id": 7,
@@ -83,7 +83,7 @@
                     "type": "tofu bbq",
                     "tamaño": "personal",
                     "ingredientes": "Tofu a la plancha con bbq, veggie tocineta, mozzarella, mayonesa y cebolla caramelizada.",
-                    "precio": 23700
+                    "precio": 23.700
                 },
                 {
                     "id": 8,
@@ -92,7 +92,7 @@
                     "type": "ragú",
                     "tamaño": "personal",
                     "ingredientes": "Láminas de pasta artesanal rellenas con carne de res en cocción lenta y pomodoro, gratinadas con mozzarella y parmesano.",
-                    "precio": 23900
+                    "precio": 23.900
                 },
                 {
                     "id": 9,
@@ -101,7 +101,7 @@
                     "type": "veggie boloñesa",
                     "tamaño": "personal",
                     "ingredientes": "Elaboradas con láminas de pasta artesanal y gratinadas con mozzarella y parmesano.",
-                    "precio": 23600
+                    "precio": 23.600
                 },
                 {
                     "id": 10,
@@ -110,7 +110,7 @@
                     "type": "olivia salmon",
                     "tamaño": "personal",
                     "ingredientes": "Salmón y mango en cubos, zanahorias rostizadas, cebolla caramelizada, tomates San Marzano, ajonjolí y espinacas salteadas, en aceite de oliva; con aderezo oriental.",
-                    "precio": 27900
+                    "precio": 27.900
                 },
                 {
                     "id": 11,
@@ -119,7 +119,7 @@
                     "type": "caprese",
                     "tamaño": "personal",
                     "ingredientes": "Queso bocconcini de búfala, pasta penne a la napolitana, albahaca y tomates San Marzano, con aceite de oliva.",
-                    "precio": 22000
+                    "precio": 22.000
                 },
                 {
                     "id": 12,
@@ -128,7 +128,7 @@
                     "type": "feta pollo",
                     "tamaño": "personal",
                     "ingredientes": "Pollo en cubos, pasta penne al pesto, maíz dulce, queso feta, ajonjolí, tomates San Marzano y aguacate; sobre variedad de lechugas, acompañado con vinagreta campiña.",
-                    "precio": 23400
+                    "precio": 23.400
                 }
             ],
     "empleados": 
